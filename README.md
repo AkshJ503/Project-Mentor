@@ -1,6 +1,9 @@
 # Project-Mentor
 
 FINAL TECH STACK
+
+checkout new changes 
+
 Frontend Web: Next.js 14 + TypeScript + Tailwind + shadcn/ui
 Mobile: React Native (Expo)
 Backend: Next.js API Routes (serverless)
@@ -26,6 +29,8 @@ AI: GitHub Copilot (FREE)
 
 
 Why This Stack:
+
+
 ✅ 90% completely FREE forever
 ✅ Scales to 10,000+ users on free tiers
 ✅ Modern, fast, reliable
