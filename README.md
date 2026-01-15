@@ -1,4 +1,5 @@
 # Project-Mentor
+
 FINAL TECH STACK
 Frontend Web: Next.js 14 + TypeScript + Tailwind + shadcn/ui
 Mobile: React Native (Expo)
@@ -20,3 +21,22 @@ Domain: Name.com (.me FREE)
 Design: Figma Pro (FREE)
 CI/CD: GitHub Actions
 AI: GitHub Copilot (FREE)
+
+
+
+
+Why This Stack:
+✅ 90% completely FREE forever
+✅ Scales to 10,000+ users on free tiers
+✅ Modern, fast, reliable
+✅ Easy to hire developers for
+✅ Supabase = Database + Auth + Storage + Realtime (all-in-one)
+✅ Vercel = Hosting + CDN + Serverless Functions (zero config)
+
+
+
+
+
+
+
+
